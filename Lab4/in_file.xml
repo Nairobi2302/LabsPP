@@ -1,0 +1,17 @@
+<Fabrics>
+    <Fabric>
+        <Brand>Kamaz</Brand>
+        <Type>Gas_tanker</Type>
+        <Weight>22884</Weight>
+    </Fabric>
+    <Fabric>
+        <Brand>Maz</Brand>
+        <Type>Wood_truck</Type>
+        <Weight>19500</Weight>
+    </Fabric>
+ <Fabric>
+        <Brand>Maz2</Brand>
+        <Type>Wood_truck2</Type>
+        <Weight>2950</Weight>
+    </Fabric>
+</Fabrics>
