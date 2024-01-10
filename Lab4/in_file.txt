@@ -1,0 +1,9 @@
+Kamaz
+Gas_tanker
+22884
+Maz
+Woodchip_truck
+19500
+Maz
+Gas
+34680
